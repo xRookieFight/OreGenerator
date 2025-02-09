@@ -1,6 +1,7 @@
 name: OreGenerator
 author: xRookieFight
 main: xRookieFight\OreGenerator\Main
+website: https://github.com/xRookieFight
 api: 5.0.0
 version: 1.0.0
 description: A plugin that makes cobblestone/stone generators have ores.
